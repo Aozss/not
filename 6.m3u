@@ -1,10 +1,11 @@
-#EXTM3U url-tvg="https://epg.iill.top/epg"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://a1.boltp.com/2025/01/06/677b3644b0a52.png" group-title="QQ群：936833456",CCTV1
-https://a1.boltp.com/2025/01/06/677b3644b0a52.png
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://a1.boltp.com/2025/01/06/677b3644b0a52.png" group-title="闲鱼好评后进VIP群",CCTV1
-https://a1.boltp.com/2025/01/06/677b3644b0a52.png
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://a1.boltp.com/2025/01/06/677b3644b0a52.png" group-title="获取高速电视源通道",CCTV1
-https://a1.boltp.com/2025/01/06/677b3644b0a52.png
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="QQ群：936833456",CCTV1
+https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/87/77/26912227787/26912227787-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1736146809&gen=playurlv2&os=08cbv&oi=796409245&trid=4607036033384ec386a6f3c52b0151a2T&mid=406996761&platform=html5&og=hw&upsig=8af0f17d628b0489ef0ffeda105383c8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=62436&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="闲鱼好评后进VIP群",CCTV1
+https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/87/77/26912227787/26912227787-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1736146809&gen=playurlv2&os=08cbv&oi=796409245&trid=4607036033384ec386a6f3c52b0151a2T&mid=406996761&platform=html5&og=hw&upsig=8af0f17d628b0489ef0ffeda105383c8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=62436&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="获取高速电视源通道",CCTV1
+https://upos-sz-mirrorcos.bilivideo.com/upgcxcode/87/77/26912227787/26912227787-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1736146809&gen=playurlv2&os=08cbv&oi=796409245&trid=4607036033384ec386a6f3c52b0151a2T&mid=406996761&platform=html5&og=hw&upsig=8af0f17d628b0489ef0ffeda105383c8&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform,og&bvc=vod&nettype=0&bw=62436&orderid=0,1&buvid=&build=0&mobi_app=&f=T_0_0&logo=80000000
+
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•央视「IPV6」",CCTV1 综合「IPV6」
